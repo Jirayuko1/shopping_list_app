@@ -10,6 +10,14 @@
 
 ระบบเชื่อมต่อฐานข้อมูล: ระบบเบื้องหลังที่เชื่อมต่อ API กับ Firebase Realtime Database เพื่อบันทึกและซิงค์ข้อมูลทั้งหมดแบบออนไลน์
 
+
+## icon_grocery_list
+
+<p align="center">
+<img width="709" height="1435" alt="grocery_list" <img width="124" height="119" alt="image" src="https://github.com/user-attachments/assets/58e38ba4-fe00-4326-8bed-b21fe73518ff" />
+
+
+  
 ## grocery_list
 
 <p align="center">
