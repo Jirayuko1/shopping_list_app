@@ -14,7 +14,8 @@
 ## icon_grocery_list
 
 <p align="center">
-<img width="709" height="1435" alt="grocery_list" <img width="124" height="119" alt="image" src="https://github.com/user-attachments/assets/58e38ba4-fe00-4326-8bed-b21fe73518ff" />
+<img width="709" height="1435" alt="grocery_list" <img width="589" height="986" alt="image" src="https://github.com/user-attachments/assets/54ee25af-a0f0-44d5-b0bb-ec238d32bfd0" />
+
 
 
   
