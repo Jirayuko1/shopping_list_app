@@ -1,16 +1,13 @@
 # shopping_list_app
 
-A new Flutter project.
+ระบบแสดงผลและจัดกลุ่ม (Display & Grouping System): ระบบดึงข้อมูลรายการสินค้ามาแสดงผล พร้อมจัดกลุ่มแยกตามหมวดหมู่ให้อัตโนมัติ (เช่น โซนผัก, โซนเนื้อสัตว์) และแสดงไอคอนประจำหมวดหมู่
 
-## Getting Started
+ระบบเพิ่มรายการ (Add System): หน้าฟอร์มสำหรับกรอกชื่อสินค้า จำนวน และเลือกหมวดหมู่ พร้อมระบบตรวจสอบความถูกต้องของข้อมูล (Form Validation) ก่อนบันทึก
 
-This project is a starting point for a Flutter application.
+ระบบแก้ไขรายการ (Edit System): ระบบแตะที่รายการ (Tap to Edit) เพื่อดึงข้อมูลเดิมขึ้นมาแก้ไขรายละเอียด และอัปเดตทับข้อมูลเดิม
 
-A few resources to get you started if this is your first Flutter project:
+ระบบลบรายการ (Delete System): ระบบปัดหน้าจอไปทางซ้าย (Swipe-to-dismiss) เพื่อลบรายการที่ต้องการทิ้ง
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ระบบจัดการสถานะ (Checklist / Mark as Done): ระบบกล่องทำเครื่องหมาย (Checkbox) เมื่อกดติ๊ก ระบบจะทำการขีดฆ่าข้อความและปรับเป็นสีเทา เพื่อแสดงสถานะว่าหยิบของลงตะกร้าแล้ว
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ระบบเชื่อมต่อฐานข้อมูล (Cloud Database System): ระบบเบื้องหลังที่เชื่อมต่อ API กับ Firebase Realtime Database (ใช้งานคำสั่ง GET, POST, PATCH, DELETE) เพื่อบันทึกและซิงค์ข้อมูลทั้งหมดแบบออนไลน์
